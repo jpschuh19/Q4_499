@@ -12,7 +12,7 @@ for line in sys.stdin:
 forward_list = []
 reverse_list = []
 
-unsorted = names
+unsorted = #names
 
 names.sort()
 names.sort(key=len, reverse=True)
